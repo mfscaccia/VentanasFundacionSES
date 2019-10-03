@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Ventanas</string>
+    <string name="textoinicial">¡Hola! Queremos hacerte algunas preguntas para que nos cuentes cuál es tu experiencia en el mundo del trabajo luego de haber participado del Programa Ventanas. No te tomará más de cinco minutos, realmente te agradecemos mucho tu colaboración!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="TituloTrabajadores">Trabajadores</string>
+    <string name="TituloBuscadores">Buscadores de empleo</string>
+    <string name="TituloInactivos">Inactivos</string>
+    <string name="TituloSituacion">Situación laboral</string>
+    <string name="fechaboton">Fecha</string>
+    <string name="FechaInicioDelCurso">Fecha de inicio del curso</string>
+    <string name="pregunta1trab">¿Ingresaste a este trabajo durante el Programa?</string>
+    <string name="Si">Sí</string>
+    <string name="No">No</string>
+    <string name="pregunta2trab">¿Qué tipo de trabajo es?</string>
+    <string name="Comercio">Comercio</string>
+    <string name="Industria">Industria</string>
+    <string name="Servicios">Servicios</string>
+    <string name="Agricultura">Agricultura</string>
+    <string name="Otra">Otra</string>
+    <string name="pregunta3trab">¿Qué tipo de contrato tienes?</string>
+    <string name="pregunta4trab">¿Qué tipo de contrato tienes?</string>
+    <string name="permanente">Permanente con contrato formal</string>
+    <string name="temporario">Temporario con contrato formal</string>
+    <string name="permpalabra">Permanente con acuerdo de palabra</string>
+    <string name="temppalabra1">Temporario con acuerdo de palabra</string>
+    <string name="ocachangas">Ocasional/Changas</string>
+    <string name="microemprendimiento">Microemprendimiento</string>
+    <string name="cuansatisfecho">¿Cuán satisfecho estás con este trabajo?</string>
+    <string name="uno">1 - Nada Satisfecho</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5 - Muy Satisfecho</string>
+    <string name="cuandultexplaboral">¿Cuándo terminó tu última experiencia laboral?</string>
+    <string name="diamesanio">día/mes/año</string>
+    <string name="pqcreesnotrabajo">¿Por qué crees que no has conseguido trabajo aún?</string>
+    <string name="poredad">Por mi edad</string>
+    <string name="faltaexperiencialaboral">Por falta de experiencia laboral</string>
+    <string name="faltacontactos">Por falta de contactos</string>
+    <string name="notermineestudios">Porque no terminé mis estudios</string>
+    <string name="pqdiscriminan">Porque me discriminan por algún motivo</string>
+    <string name="pqnobuscastrabajo">¿Por qué no buscas trabajo?</string>
+    <string name="debotareascuidarflia">Debo ocuparme de las tareas de mi hogar / cuidar a un familiar</string>
+    <string name="busqueynoencontre">Porque estuve buscando un tiempo y como no encontré dejé de buscar</string>
+    <string name="soloquieroestudiar">Porque ahora sólo quiero dedicarme a estudiar</string>
+    <string name="nsnc">No sabe / No contesta</string>
+    <string name="cualestusituacion">¿Cuál es tu situación laboral ahora?</string>
+    <string name="estoytrabajando">Estoy trabajando</string>
+    <string name="notrabajoperobusco">No estoy trabajando pero busco trabajo</string>
+    <string name="notrabnobusco">No estoy trabajando y no busco trabajo</string>
+    <string name="EnviarRtas">Enviar respuestas</string>
+    <string name="pregunta4bistrab">¿Cuál es tu ingreso en este trabajo?</string>
+    <string name="notengoingresos">No tengo ingresos</string>
+    <string name="menosde3000">Menos de $3000</string>
+    <string name="entre3001a6000">Entre $3001 a $6000</string>
+    <string name="entre6001a9000">Entre $6001 a $9000</string>
+    <string name="masde9000">Más de $9001</string>
+    <string name="mnu_acerca_de">Acerca de</string>
+    <string name="txt_acerca_de">FUNDACION SES </string>
+    <string name="txt_acerca_de_version">Versión 1.0" </string>
+    <string name="ticker">Llegó el momento de contestar nuestra consulta</string>
+    <string name="programaventanas">Programa Ventanas</string>
+    <string name="tomatecinco">Por favor, tomate 5 minutos para contestar nuestra consulta</string>
+    <string name="txt_developers">© Ha Fat7o Set7e Soft. \n Todos los derechos reservados.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
